@@ -1,0 +1,20 @@
+{
+  "name": "apache-log-parser",
+  "version": "1.0.0",
+  "description": "Nodejs Apache Log Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slaughtr/apache-log-parser.git"
+  },
+  "keywords": [ "apache", "log", "parser" ],
+  "author": "Dallas Slaughter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slaughtr/apache-log-parser/issues"
+  },
+  "homepage": "https://github.com/slaughtr/apache-log-parser#readme"
+}
