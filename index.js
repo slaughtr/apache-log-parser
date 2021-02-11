@@ -1,5 +1,5 @@
 module.exports = ({ string, options = { } }) => {
-	// Default log format is
+	// Default combined log format is
 	// LogFormat "%h %l %u %t \"%r\" %>s %O \"%{Referer}i\" \"%{User-Agent}i\"" combined
 	// h = remote host (IP address of user)
 	// l = remote logname (if supplied) - usually just "-"

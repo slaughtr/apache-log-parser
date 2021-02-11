@@ -1,5 +1,5 @@
 {
-  "name": "apache-log-parser",
+  "name": "@slaughtr/apache-log-parser",
   "version": "1.0.0",
   "description": "Nodejs Apache Log Parser",
   "main": "index.js",
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/slaughtr/apache-log-parser.git"
   },
-  "keywords": [ "apache", "log", "parser" ],
+  "keywords": [
+    "apache",
+    "log",
+    "parser"
+  ],
   "author": "Dallas Slaughter",
   "license": "MIT",
   "bugs": {
